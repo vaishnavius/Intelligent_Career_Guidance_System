@@ -1,2 +1,3 @@
-# Intelligent_Career_Guidance_System
- 
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
