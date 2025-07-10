@@ -84,13 +84,4 @@ An innovative web-based career guidance system that leverages machine learning t
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-- Manikrishna Gaonkar - Initial work
-
-## 🙏 Acknowledgments
-- Thanks to all contributors
-- Inspired by the need for better career guidance in tech education
 
